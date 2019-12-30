@@ -16,7 +16,7 @@ In the repository there are just some interesting things found in the 20 Newsgro
 ### Data
 
 * [20 Newsgroups site](http://qwone.com/~jason/20Newsgroups)
-* [How to work with the dataset using Scikit-learn](https://scikit-learn.org/stable/datasets/index.html#newsgroups-dataset)
+* [Description of how to work with the dataset using Scikit-learn](https://scikit-learn.org/stable/datasets/index.html#newsgroups-dataset)
 * [Scikit-learn tutorial for the dataset](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
 
 ### Encoding Formats

@@ -14,10 +14,10 @@ In the repository there are just some interesting things found in the 20 Newsgro
 
 ## Data
 
-* http://qwone.com/~jason/20Newsgroups/
-* https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html
-* https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html
+* [20 Newsgroups site](http://qwone.com/~jason/20Newsgroups)
+* [How to work with the dataset using Scikit-learn](https://scikit-learn.org/stable/datasets/index.html#newsgroups-dataset)
+* [Scikit-learn tutorial for the dataset](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
 
 ## Encoding Formats
 
-* https://en.wikipedia.org/wiki/Uuencoding
+* [Uuencoding](https://en.wikipedia.org/wiki/Uuencoding)

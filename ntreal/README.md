@@ -6,4 +6,4 @@ However, it was not possible to decode successfully and reproduce the original i
 Thanks that the artist's name and the picture's one are visible, and the picture can be found on the net (eg. here [Twitter post](https://twitter.com/GIFmodel/status/1198320150786785280)).
 So, the picture was supposed to look like
 
-![ntreal](ntreal_external)
+![ntreal](ntreal_external.jpg)

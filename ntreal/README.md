@@ -1,5 +1,5 @@
 Another uuencoded .bmp image.
-However, it was not possible to decode successfully and reproduce the original image: there seems to be some errors in the encoding string.
+However, it was not possible to decode and reproduce the original image successfully: there seem to be some errors in the encoding string.
 
 ![ntreal](ntreal.jpg)
 

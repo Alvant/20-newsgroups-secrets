@@ -1,6 +1,9 @@
-Another encoded .bmp image.
-However, it was not possible to successfully decode the original image: there seemed to be some errors in the encoding string.
-Thanks to the [Twitter post](https://twitter.com/GIFmodel/status/1198320150786785280) we can see what actually the picture shows.
+Another uuencoded .bmp image.
+However, it was not possible to decode successfully and reproduce the original image: there seemed to be some errors in the encoding string.
 
 ![ntreal](ntreal.jpg)
 
+Thanks that the artist's name and the picture's one are visible, and the picture can be found on the net (eg. here [Twitter post](https://twitter.com/GIFmodel/status/1198320150786785280)).
+So, the picture was supposed to look like
+
+![ntreal](ntreal_external)

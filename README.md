@@ -10,6 +10,16 @@ For example, encoded .bmp images — email attachments which are actually a part
 
 In the repository there are just some interesting things found in the 20 Newsgroups dataset.
 
+
+# Contributors (in alphabetical order)
+
+* [Evgeny Egorov](https://github.com/Evgeny-Egorov-Projects)
+* [Vasiliy Alekseev](https://github.com/Alvant)
+* [Victor Bulatov](https://github.com/bt2901)
+
+
+# References
+
 ## Data
 
 * [20 Newsgroups site](http://qwone.com/~jason/20Newsgroups)
@@ -19,9 +29,3 @@ In the repository there are just some interesting things found in the 20 Newsgro
 ## Encoding Formats
 
 * [Uuencoding](https://en.wikipedia.org/wiki/Uuencoding)
-
-## Contributors (in alphabetical order)
-
-* [Evgeny Egorov](https://github.com/Evgeny-Egorov-Projects)
-* [Vasiliy Alekseev](https://github.com/Alvant)
-* [Victor Bulatov](https://github.com/bt2901)

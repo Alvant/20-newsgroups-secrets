@@ -26,3 +26,8 @@ A couple of pieces of ASCII art occasionally found in the 20 Newsgroups dataset.
 ## [sci.space/61566](source/sci.space__61566.txt)
 
 ![sci.space__61566](screenshots/sci.space__61566.png)
+
+
+## [sci.space/60784](source/sci.space__60784.txt)
+
+![sci.space__60784](screenshots/sci.space__60784.png)

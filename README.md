@@ -10,7 +10,7 @@ For example, encoded .bmp images — email attachments which are actually a part
 
 In the repository there are just a couple interesting things found in the 20 Newsgroups dataset.
 
-[Notebook](Basic-Study-of-the-20-Newsgroups-Dataset.ipynb) illustrates some basic study of the dataset (which actually helped to find one of the encoded pictures, and so drew attention to the search for other secrets in the dataset).
+The [notebook](Basic-Study-of-the-20-Newsgroups-Dataset.ipynb) illustrates some basic study of the dataset (which actually helped to find one of the encoded pictures, and so drew attention to the search for other secrets in the dataset).
 
 
 ## References

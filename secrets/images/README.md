@@ -32,7 +32,7 @@ Moreover, someone managed to distinguish some strange objects on these pictures,
 >
 > If you brighten up the dark part of CV043015.GIF with your viewer you\
 > will see two other objects near the upper left part of the moon.\
-> One is actually between the weather satellite and the moon.\
+> One is actually between the weather satellite and the moon.
 >
 >  Bill O'Shaughnessy
 

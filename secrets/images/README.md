@@ -14,28 +14,28 @@ Nonetheless, it seems worth noting that the message *sci.space/61469* mentions t
 
 > Subject: moon image in weather sat image
 > Organization: Astronomy / Indiana University / Home of RoboScope
-
+>
 > an image of the moon has been caught in a weather satellite images of the earth.
 > it appears in both the 0430-1500UT ir and visual images of the earth.
 > the GIF images can be down loaded from vmd.cso.uiuc.edu and are named
 > CI043015.GIF and CV043015.GIF for the IR and visual images respectively.
-
+>
 > pretty cool pictures;  in the ir it's saturated but in the visual image
 > details on the moon are viewable.
-
+>
 > the moon is not in the 1400UT images.
-
+>
 >  george wm turner            turner@bigbang.astro.indiana.edu
 
 Moreover, someone managed to distinguish some strange objects on these pictures, *sci.space/61503*:
 
 > Subject: Re: moon image in weather sat image
 > Organization: Netcom - Online Communication Services (408 241-9760 guest)
-
+>
 > If you brighten up the dark part of CV043015.GIF with your viewer you 
 > will see two other objects near the upper left part of the moon.
 > One is actually between the weather satellite and the moon.
-
-> 			    Bill O'Shaughnessy
+>
+>  Bill O'Shaughnessy
 
 Unluckily, these pictures could not be found: they are not encoded, and the server mentioned *vmd.cso.uiuc.edu* is unavailable.

@@ -8,7 +8,9 @@ Documents of this text collection are mostly plain natural language text files, 
 However, it turns out that some of them may have really unique stuff inside.
 For example, encoded .bmp images — email attachments which are actually a part of the text message.
 
-In the repository there are just some interesting things found in the 20 Newsgroups dataset.
+In the repository there are just a couple interesting things found in the 20 Newsgroups dataset.
+
+[Notebook](Basic-Study-of-the-20-Newsgroups-Dataset.ipynb) illustrates some basic study of the dataset (which actually helped to find one of the encoded pictures, and so drew attention to the search for other secrets in the dataset).
 
 
 ## References
@@ -24,7 +26,7 @@ In the repository there are just some interesting things found in the 20 Newsgro
 * [Uuencoding](https://en.wikipedia.org/wiki/Uuencoding)
 
 
-## Contributors (in alphabetical order)
+## Contributors (in Alphabetical Order)
 
 * [Evgeny Egorov](https://github.com/Evgeny-Egorov-Projects)
 * [Vasiliy Alekseev](https://github.com/Alvant)

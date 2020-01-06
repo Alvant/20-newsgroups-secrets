@@ -25,7 +25,7 @@ Nonetheless, it seems worth noting that the message *sci.space/61469* mentions t
 >
 > the moon is not in the 1400UT images.
 >
->  george wm turner            turner@bigbang.astro.indiana.edu
+>  george wm turner
 
 Moreover, someone managed to distinguish some strange objects on these pictures, *sci.space/61503*:
 

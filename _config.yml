@@ -9,7 +9,7 @@ name: 20-newsgroups-secrets
 description: Some hidden (and quite unexpected) information found in the 20 Newsgroups dataset
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/Alvant/20-newsgroups-secrets/master/secrets/images/ROMAN/ROMAN.jpg
+avatar: ./images/ascii-cloud.png
 
 #
 # Flags below are optional

@@ -1,1 +1,0 @@
-![outOfControl](outOfControl.gif)

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: What Is Inside the 20 Newsgroups Dataset? Human Readable Text? Yes, but Not Only (Also a Roman Gazebo)
+title: What Is Inside the 20 Newsgroups Dataset?
 ---
+
+Human Readable Text? Yes, but Not Only (Also a Roman Gazebo).
 
 What do we expect to find in an NLP dataset? Probably not a picture like this one!
 
-![\_config.yml]({{ site.baseurl }}/secrets/images/ROMAN/ROMAN.jpg)
+![_config.yml]({{ site.baseurl }}/secrets/images/ROMAN/ROMAN.jpg)
 
 Actually, the picture looked like this:
 

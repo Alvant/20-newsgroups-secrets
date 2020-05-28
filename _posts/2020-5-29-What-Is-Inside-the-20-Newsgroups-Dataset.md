@@ -5,7 +5,7 @@ title: What Is Inside the 20 Newsgroups Dataset?<br />Human Readable Text?<br />
 
 What do we expect to find in an NLP dataset? Probably not a picture like this one!
 
-![\_config.yml]({{ site.contenturl }}/secrets/images/ROMAN/ROMAN.jpg)
+![]({{ site.contenturl }}/secrets/images/ROMAN/ROMAN.jpg)
 
 Actually, the picture looked like this:
 

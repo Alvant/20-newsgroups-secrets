@@ -5,6 +5,7 @@
 // IMPORTS
 //
 
+@import "fonts";
 @import "reset";
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
@@ -12,27 +13,6 @@
 /**************/
 /* BASE RULES */
 /**************/
-
-@font-face {
-  font-family: "OpenSans";
-  src: url("_fonts/OpenSans/OpenSans-Regular.ttf");
-}
-@font-face {
-  font-family: "OpenSans";
-  src: url("_fonts/OpenSans/OpenSans-Bold.ttf");
-  font-weight: bold;
-}
-@font-face {
-  font-family: "OpenSans";
-  src: url("_fonts/OpenSans/OpenSans-Italic.ttf");
-  font-style: italic;
-}
-@font-face {
-  font-family: "OpenSans";
-  src: url("_fonts/OpenSans/OpenSans-BoldItalic.ttf");
-  font-weight: bold;
-  font-style: italic;
-}
 
 html {
   font-size: 100%;
@@ -42,7 +22,7 @@ html {
 
 body {
   background: $white;
-  font: 18px/1.4 "Arial", $helvetica;
+  font: 18px/1.4 "OpenSans", $helvetica;
   color: $darkGray;
 }
 
@@ -54,7 +34,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Arial", $helveticaNeue;
+  font-family: "OpenSans", $helveticaNeue;
   color: $darkerGray;
   font-weight: bold;
 

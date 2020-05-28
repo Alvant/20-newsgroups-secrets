@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Is Inside the 20 Newsgroups Dataset? Human Readable Text? Yes, but Not Only (Also a Roman Gazebo)
+title: What Is Inside the 20 Newsgroups Dataset?<br />Human Readable Text?<br />Yes, but Not Only (Also a Roman Gazebo)
 ---
 
 What do we expect to find in an NLP dataset? Probably not a picture like this one!

@@ -1,13 +1,11 @@
 ---
 layout: post
-title: What Is Inside the 20 Newsgroups Dataset?
+title: What Is Inside the 20 Newsgroups Dataset? Human Readable Text? Yes, but Not Only (Also a Roman Gazebo)
 ---
-
-Human Readable Text? Yes, but Not Only (Also a Roman Gazebo).
 
 What do we expect to find in an NLP dataset? Probably not a picture like this one!
 
-![_config.yml]({{ site.baseurl }}/secrets/images/ROMAN/ROMAN.jpg)
+![\_config.yml]({{ site.contenturl }}/secrets/images/ROMAN/ROMAN.jpg)
 
 Actually, the picture looked like this:
 
@@ -25,7 +23,9 @@ M8?HP.%5(885,68FAMOIM>;+*<7'*QL:VXO\878V5G>Y`4%UA<84<:9TX1%T0
 
 The image is a result of decoding. Ok, now let's go in order!
 The 20 Newsgroups dataset is a well-known NLP dataset consisting of nearly 18,000 emails each of which relates to one of 20 topics. An email contains body text, a header, a footer, and maybe quotes. The dataset is used, for example in text classification, topic modeling.
+
 So, the 20 Newsgroups is a natural language dataset. However, it turned out, that there is not only plain text inside but also encoded images and archives with source code! As a kind of attachment to the main message.
+
 The thing came to the surface while developing a library for topic modeling TopicNet: some topics of models trained on the 20 Newsgroups dataset had strange top tokens (like AX, G9V, GIZ). Looking at top documents for these topics revealed that there is a whole series of more than 10 emails which contained just parts of the encoded gazebo image!  A bit of text analysis (Heaps' law plot) helped fo find a couple of other such secrets.
 
 References

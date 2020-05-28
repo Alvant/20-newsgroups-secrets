@@ -8,9 +8,16 @@ layout: default
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-      <div class="entry">
+      <!-- <div class="entry">
         {{ post.excerpt }}
-      </div>
+      </div> -->
+
+      <!-- <div class="entry">
+        {{ post.content }}
+      </div> -->
+
+      <!-- This is a hack, as we actually need only one post -->
+      <a href="{{ site.baseurl }}{{ post.url }}"><img src="./picture-meme/grus-nlp-plan.png" alt="Expectations vs. Reality"></a>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>

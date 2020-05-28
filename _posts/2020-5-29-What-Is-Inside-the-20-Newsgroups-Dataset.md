@@ -5,7 +5,10 @@ title: What Is Inside the 20 Newsgroups Dataset?<br />Human Readable Text?<br />
 
 What do we expect to find in an NLP dataset? Probably not a picture like this one!
 
-![]({{ site.contenturl }}/secrets/images/ROMAN/ROMAN.jpg)
+<figure>
+  <img src='{{ site.contenturl }}/secrets/images/ROMAN/ROMAN.jpg' />
+  <figcaption>A marbled gazebo on a desert with blue sky background (description as it is in the 20 Newsgroups dataset</figcaption>
+</figure>
 
 Actually, the picture looked like this:
 
@@ -26,9 +29,21 @@ The 20 Newsgroups dataset is a well-known NLP dataset consisting of nearly 18,00
 
 So, the 20 Newsgroups is a natural language dataset. However, it turned out, that there is not only plain text inside but also encoded images and archives with source code! As a kind of attachment to the main message.
 
-The thing came to the surface while developing a library for topic modeling TopicNet: some topics of models trained on the 20 Newsgroups dataset had strange top tokens (like AX, G9V, GIZ). Looking at top documents for these topics revealed that there is a whole series of more than 10 emails which contained just parts of the encoded gazebo image!  A bit of text analysis (Heaps' law plot) helped fo find a couple of other such secrets.
+The thing came to the surface while developing a library for topic modeling TopicNet: some topics of models trained on the 20 Newsgroups dataset had strange top tokens (like `AX, G9V, GIZ`). Looking at top documents for these topics revealed that there is a whole series of more than 10 emails which contained just parts of the encoded gazebo image! A bit of text analysis (Heaps' law plot) helped fo find a couple of other such secrets, for example:
 
-References
-* The 20 Newsgroups dataset: http://qwone.com/~jason/20Newsgroups
-* TopicNet library: https://github.com/machine-intelligence-laboratory/TopicNet
-* Heap's law: https://en.wikipedia.org/wiki/Heaps%27_law
+<figure>
+  <img src='{{ site.contenturl }}/secrets/images/ntreal/ntreal_external.jpg' />
+</figure>
+
+<figure>
+  <img src='{{ site.contenturl }}/secrets/images/BUTT/BUTT.jpg' />
+</figure>
+
+Everything is available here: [https://github.com/Alvant/20-newsgroups-secrets](https://github.com/Alvant/20-newsgroups-secrets)
+
+
+## References
+
+* [The 20 Newsgroups dataset](http://qwone.com/~jason/20Newsgroups)
+* [TopicNet library](https://github.com/machine-intelligence-laboratory/TopicNet)
+* [Heap's law](https://en.wikipedia.org/wiki/Heaps%27_law)

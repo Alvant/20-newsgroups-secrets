@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Is Inside the 20 Newsgroups Dataset?<br />Human Readable Text?<br />Yes, but Not Only (Also a Roman Gazebo)
+title: <p style="text-align: center;">What Is Inside the 20 Newsgroups Dataset?<br />Human Readable Text?<br />Yes, but Not Only (Also a Roman Gazebo)</p>
 ---
 
 What do we expect to find in an NLP dataset? Probably not a picture like this one!

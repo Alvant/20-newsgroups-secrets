@@ -18,8 +18,9 @@ The [notebook](Basic-Study-of-the-20-Newsgroups-Dataset.ipynb) illustrates some 
 ### Data
 
 * [20 Newsgroups site](http://qwone.com/~jason/20Newsgroups)
-* [Description of how to work with the dataset using Scikit-learn](https://scikit-learn.org/stable/datasets/index.html#newsgroups-dataset)
-* [Scikit-learn tutorial for the dataset](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
+* [TopicNet library](https://github.com/machine-intelligence-laboratory/TopicNet) whose development triggered the whole thing and helped to find what is found
+* [Description](https://scikit-learn.org/stable/datasets/index.html#newsgroups-dataset) of how to work with the dataset using Scikit-learn
+* [Scikit-learn tutorial](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html) for the dataset
 
 ### Encoding Formats
 

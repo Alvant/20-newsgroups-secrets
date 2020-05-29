@@ -36,7 +36,7 @@ So, the 20 Newsgroups is a natural language dataset. However, it turned out, tha
 The thing came to the surface while developing a library for topic modeling TopicNet: some topics of models trained on the 20 Newsgroups dataset had strange top tokens (like `AX`, `G9V`, `GIZ`). Looking at top documents for these topics revealed that there is a whole series of more than 10 emails which contained just parts of the encoded gazebo image! A bit of text analysis (Heaps' law plot) helped fo find a couple of other such secrets which are available in [the repository](https://github.com/Alvant/20-newsgroups-secrets) (where there is also a Jupyter Notebook).
 
 <div style="text-align: center;">
-  <img src='{{ site.contenturl }}/secrets/images/suspicious-point/suspicious-point.png' />
+  <img src='{{ site.baseurl }}/secrets/images/suspicious-point/suspicious-point.png' />
 </div>
 
 ## References

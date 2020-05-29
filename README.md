@@ -24,7 +24,7 @@ The [notebook](Basic-Study-of-the-20-Newsgroups-Dataset.ipynb) illustrates some 
 ### Other
 
 * [TopicNet library](https://github.com/machine-intelligence-laboratory/TopicNet) whose development triggered the whole thing and helped to find what is found
-* [Uuencoding](https://en.wikipedia.org/wiki/Uuencoding) — encoding format used for attachments in the dataset
+* [Uuencoding](https://en.wikipedia.org/wiki/Uuencoding) which is the encoding format used for attachments in the dataset
 
 
 ## Contributors (in Alphabetical Order)

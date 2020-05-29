@@ -7,7 +7,7 @@ What do we expect to find in an NLP dataset? Probably not a picture like this on
 
 <figure>
   <img src='{{ site.contenturl }}/secrets/images/ROMAN/ROMAN.jpg' />
-  <figcaption>A marbled gazebo on a desert with blue sky background (description as it is in the 20 Newsgroups dataset</figcaption>
+  <figcaption>A marbled gazebo on a desert with blue sky background (description as it is in the 20 Newsgroups dataset)</figcaption>
 </figure>
 
 Actually, the picture looked like this:

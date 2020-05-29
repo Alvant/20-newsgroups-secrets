@@ -18,13 +18,13 @@ The [notebook](Basic-Study-of-the-20-Newsgroups-Dataset.ipynb) illustrates some 
 ### Data
 
 * [20 Newsgroups site](http://qwone.com/~jason/20Newsgroups)
-* [TopicNet library](https://github.com/machine-intelligence-laboratory/TopicNet) whose development triggered the whole thing and helped to find what is found
 * [Description](https://scikit-learn.org/stable/datasets/index.html#newsgroups-dataset) of how to work with the dataset using Scikit-learn
 * [Scikit-learn tutorial](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html) for the dataset
 
-### Encoding Formats
+### Other
 
-* [Uuencoding](https://en.wikipedia.org/wiki/Uuencoding)
+* [TopicNet library](https://github.com/machine-intelligence-laboratory/TopicNet) whose development triggered the whole thing and helped to find what is found
+* [Uuencoding](https://en.wikipedia.org/wiki/Uuencoding) — encoding format used for attachments in the dataset
 
 
 ## Contributors (in Alphabetical Order)

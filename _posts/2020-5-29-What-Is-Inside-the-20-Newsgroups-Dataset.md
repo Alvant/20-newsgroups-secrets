@@ -34,6 +34,7 @@ end
 ```
 
 The image is a result of decoding. Ok, now let's go in order!
+
 The 20 Newsgroups dataset is a well-known NLP dataset consisting of nearly 18,000 emails each of which relates to one of 20 topics. An email contains body text, a header, a footer, and maybe quotes. The dataset is used, for example in text classification, topic modeling.
 
 So, the 20 Newsgroups is a natural language dataset. However, it turned out, that there is not only plain text inside but also encoded images and archives with source code! As a kind of attachment to the main message.
